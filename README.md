@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c 
 - 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me my email id is shreyapramod157@gmail.com
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: introvert outside extrovert inside
 
 <!---
